@@ -13,9 +13,9 @@
 4. **이스터에그**: 특정 조건 만족 시 발동하는 '히든 고난도 모드' 구현
 
 ## 실행 화면
-| 초기 실행 화면 | 게임 화면 |
-|:---:|:---:|
-|![login](https://github.com/user-attachments/assets/0247575a-e121-4728-96b1-e0b1e89e5bb5)|![play](https://github.com/user-attachments/assets/e5ea4c6f-2f35-4599-bd09-b551b45d2a85)
+| 초기 실행 화면 | 기본 게임 플레이 화면 | 이스터에그 플레이 화면 |
+|:---:|:---:|:---:|
+|![login](https://github.com/user-attachments/assets/0247575a-e121-4728-96b1-e0b1e89e5bb5)|![play](https://github.com/user-attachments/assets/e5ea4c6f-2f35-4599-bd09-b551b45d2a85)|![easterEggs](https://github.com/user-attachments/assets/800de07d-183c-4bac-b702-61ef9a3de757)
 
 
 
