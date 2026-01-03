@@ -1,4 +1,4 @@
-# Tetris X Word typing game
+# Tetris X Word Typing Game
 > 고전 아케이드 게임인 테트리스를 오마주하여 만든 단어 맞추기 게임
 
 ## 사용 기술
