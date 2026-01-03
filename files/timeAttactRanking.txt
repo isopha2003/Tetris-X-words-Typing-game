@@ -1,0 +1,3 @@
+ISOP,2,0
+ISOP,80
+ISOP,40
